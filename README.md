@@ -1,2 +1,2 @@
 # Portfolio-Website-Project
-Portfolio Website designing using HTML CSS and Javascript
+Portfolio site using HTML CSS and Javascript
